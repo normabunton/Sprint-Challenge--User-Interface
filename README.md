@@ -34,13 +34,23 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
+I would say HTML : HTML is called Hyper Text Markup Language that creates a webpage in your browser. They included writing , links, pictures, sound and video. All of these things are included in HTml to place the information needed on the web page in order for design. 
+
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
+
+display: block and display: inline are part of the design of css on a web page. referring to the box model block is placing items in block and inline level elements
 
 3. What are the 4 areas of the box model?
 
+content, padding, border, margin
+
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
+align-items: center; places items inth e center of a page an aligns them across the cross axis horizontally
+
 5. Explain why git is valuable to a team of developers.
+
+git is valuable to a team of developers that are assigned different tasks in building a web page because everyone can participate and add or build there assigned parts and not interfer with the produciton of other assignments. Then everything can be assessed and merged into one content for a build. 
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
