@@ -38,6 +38,7 @@ footer, header, hgroup, menu, nav, section {
         padding: 25%;
         font-size: 14px;
         color: black;
+        text-align: justify;
 }
 section{
 
@@ -76,10 +77,13 @@ h1, h2, h3, h4, h5 {
     font-size: 18px;
     margin-bottom: 15px;
     font-family: 'Rubik', sans-serif;
+    padding:0 1px;
+    text-align: left;
 }
 
 p {
     line-height: 1.4;
+    text-align: left;
 }
 
 button {
